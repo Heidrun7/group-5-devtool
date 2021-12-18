@@ -22,6 +22,3 @@ pip install graphviz
 3. Run the project
 4. Copy the dot code in devTree.txt (generated during runtime) and insert into helloworld.py
 5. Run the project again to generate the correct image
-
-## Notes
-
